@@ -1,10 +1,10 @@
 <h2> Hey there! I'm Boloram. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-- 🔭 &nbsp; Worked as Customer Service Associate for 3.5 years in Amazon.
-- :sunglasses: &nbsp; Currently expanding my skillsets into world of data.
+- 🔭 &nbsp; GenAI Analyst | Data Annotator | Data Analyst Intern | Ex-CSA @Amazon
+- :sunglasses: &nbsp; Currently expanding my skillsets into world of data analytics
 - 🎓 &nbsp; Studied B.tech in Electrical Engineering.
-- 💼 &nbsp; Currently doing a professional course on Data Science .
+- 💼 &nbsp; Currently doing a professional certification on Data Science .
 - :abacus: &nbsp; Enthusiast in Data Analysis, Machine Learning and Artificial Intelligence .
 - :clapper: &nbsp; Doing adventure sports and travel and uploading videos on youtube as a hobby.
 - :mountain_snow: &nbsp; I belive, riding a bike or going for a trek in weekend is the best stress reliever.
