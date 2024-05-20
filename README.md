@@ -11,10 +11,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
+Specialized in SQL and Asthetic Visualization
+
 - 💻 &nbsp; Python | R | VBA
 - 🌐 &nbsp; Youtube | SEO | Content Writting
-- 🛢 &nbsp; MySQL | PostgreSQL | MS SQL Server
-- 🔧 &nbsp; Advance Excel | PowerBI | tableau 
+- 🛢 &nbsp; MySQL | Prompt Engineering | Data Annotation
+- 🔧 &nbsp; Advance Excel | PowerBI | Sheets | Datawrapper | Flourish 
 - 🖥 &nbsp; Inshot | Filmora9 | Photoshop | Canva
 
 <br>
